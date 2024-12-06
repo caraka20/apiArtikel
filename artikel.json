@@ -1,0 +1,78 @@
+{
+  "articles": [
+    {
+      "title": "Tips Meningkatkan Produktivitas di Tempat Kerja",
+      "content": "Meningkatkan produktivitas di tempat kerja adalah kunci bagi kesuksesan karier. Dengan produktivitas yang baik, Anda bisa menyelesaikan lebih banyak pekerjaan dengan efisiensi tinggi, mendapatkan kepercayaan dari atasan, serta mencapai target pekerjaan secara konsisten. Artikel ini memberikan panduan praktis untuk meningkatkan produktivitas di tempat kerja, mulai dari manajemen waktu, strategi kerja yang lebih efektif, hingga menjaga kesehatan mental agar tetap fokus.",
+      "sections": [
+        {
+          "title": "1. Prioritaskan Tugas dengan Metode Eisenhower Matrix",
+          "description": "Menentukan prioritas tugas adalah langkah penting untuk bekerja secara efisien. Metode Eisenhower Matrix membantu Anda memisahkan tugas berdasarkan urgensi dan kepentingannya."
+        },
+        {
+          "title": "2. Batasi Gangguan dan Tingkatkan Fokus",
+          "description": "Gangguan seperti notifikasi ponsel, email, dan percakapan spontan di kantor bisa sangat mengurangi produktivitas. Untuk meningkatkan fokus, coba lakukan langkah berikut."
+        },
+        {
+          "title": "3. Gunakan Teknik Pomodoro untuk Manajemen Waktu",
+          "description": "Teknik Pomodoro adalah metode yang membagi waktu kerja menjadi interval 25 menit, diselingi istirahat 5 menit di antara setiap interval."
+        },
+        {
+          "title": "4. Ciptakan Lingkungan Kerja yang Kondusif",
+          "description": "Lingkungan kerja yang nyaman dan rapi dapat meningkatkan semangat dan produktivitas."
+        },
+        {
+          "title": "5. Manfaatkan Alat Bantu Produktivitas",
+          "description": "Teknologi dapat menjadi alat bantu yang efektif untuk meningkatkan produktivitas. Beberapa aplikasi dan alat bantu yang berguna adalah Trello, Asana, Google Calendar, Notion, atau Evernote."
+        },
+        {
+          "title": "6. Istirahat yang Cukup dan Kelola Stres",
+          "description": "Istirahat yang cukup merupakan faktor penting agar tetap produktif. Bekerja tanpa istirahat justru bisa menurunkan efisiensi dan meningkatkan risiko burnout."
+        }
+      ],
+      "conclusion": "Meningkatkan produktivitas di tempat kerja membutuhkan perencanaan, disiplin, dan upaya yang konsisten. Dengan menerapkan tips di atas, Anda bisa bekerja lebih efisien, fokus, dan mencapai hasil maksimal dalam pekerjaan."
+    },
+    {
+      "title": "Tips Menulis CV yang Menarik untuk Fresh Graduate",
+      "content": "Memasuki dunia kerja sebagai fresh graduate bisa menjadi tantangan tersendiri, terutama dalam menyusun curriculum vitae (CV) yang menarik. CV adalah kesan pertama yang akan dilihat oleh perusahaan, sehingga penting untuk menyajikannya secara profesional dan menarik.",
+      "sections": [
+        {
+          "title": "1. Gunakan Format yang Sederhana dan Profesional",
+          "description": "Pilih format CV yang mudah dibaca dan profesional. Gunakan font yang sederhana seperti Arial atau Times New Roman dengan ukuran yang nyaman dibaca."
+        },
+        {
+          "title": "2. Mulailah dengan Informasi Pribadi yang Lengkap",
+          "description": "Pada bagian atas CV, sertakan nama lengkap, nomor telepon, alamat email, dan tautan ke profil LinkedIn (jika ada)."
+        },
+        {
+          "title": "3. Fokus pada Keterampilan dan Pengalaman yang Relevan",
+          "description": "Walaupun Anda belum memiliki banyak pengalaman kerja, fokuslah pada keterampilan dan pengalaman yang relevan dengan posisi yang Anda lamar."
+        },
+        {
+          "title": "4. Tulis Ringkasan Profil yang Menarik",
+          "description": "Tambahkan ringkasan profil singkat di bagian atas CV yang menggambarkan diri Anda dalam satu atau dua kalimat."
+        },
+        {
+          "title": "5. Gunakan Bahasa yang Jelas dan Profesional",
+          "description": "Hindari bahasa yang terlalu kompleks atau terlalu santai. Gunakan bahasa formal dan profesional."
+        },
+        {
+          "title": "6. Sertakan Portofolio atau Contoh Karya (Jika Ada)",
+          "description": "Jika Anda memiliki karya atau proyek yang relevan dengan pekerjaan yang Anda inginkan, sertakan tautan ke portofolio atau lampirkan contoh karya Anda."
+        },
+        {
+          "title": "7. Batasi Panjang CV Menjadi Satu atau Dua Halaman",
+          "description": "Usahakan agar CV Anda tidak terlalu panjang. Satu hingga dua halaman adalah panjang ideal untuk seorang fresh graduate."
+        },
+        {
+          "title": "8. Gunakan Kata Kunci yang Sesuai dengan Deskripsi Pekerjaan",
+          "description": "Pastikan Anda membaca deskripsi pekerjaan dengan cermat dan menyertakan kata kunci yang relevan dalam CV Anda."
+        },
+        {
+          "title": "9. Review dan Edit Sebelum Mengirim",
+          "description": "Sebelum mengirim CV, luangkan waktu untuk membaca ulang dan melakukan editing."
+        }
+      ],
+      "conclusion": "Menulis CV yang menarik adalah langkah awal yang penting untuk memulai karir sebagai fresh graduate. Dengan format yang rapi, informasi yang jelas, dan kata kunci yang relevan, Anda dapat meningkatkan peluang untuk mendapatkan pekerjaan yang diimpikan."
+    }
+  ]
+}
