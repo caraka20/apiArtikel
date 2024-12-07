@@ -1,34 +1,24 @@
-name: Development Build Workflow
+name: Update GitHub Pages
 
 on:
   push:
     branches:
       - main
-      - development  # Jalankan workflow di branch development
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout Kode
       - name: Checkout code
         uses: actions/checkout@v3
 
-      # Step 2: Setup Node.js
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 16
-
-      # Step 3: Install Dependencies
-      - name: Install dependencies
-        run: npm install
-
-      # Step 4: Jalankan Build Development
-      - name: Run Development Build
-        run: npm run dev # Ganti dengan script development di package.json
-
-      # Step 5: Jalankan Tes (Opsional)
-      - name: Run Tests
-        run: npm test
+      - name: Build and Deploy
+        run: |
+          echo "Deploying updated files..."
+          cp -R ./path-to-json ./public/apiArtikel
+      - name: Commit Changes
+        run: |
+          git add .
+          git commit -m "Update API Data"
+          git push origin main
