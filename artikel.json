@@ -2,79 +2,11 @@
   "articles": [
     {
       "title": "Tips Meningkatkan Produktivitas di Tempat Kerja",
-      "content": `
-        <div class="content">
-          <h1 class="title">Baca Tips Meningkatkan Produktivitas di Tempat Kerja</h1>
-          <p>
-            Meningkatkan produktivitas di tempat kerja adalah kunci bagi kesuksesan karier. Dengan produktivitas yang baik, Anda bisa menyelesaikan lebih banyak pekerjaan dengan efisiensi tinggi, mendapatkan kepercayaan dari atasan, serta mencapai target pekerjaan secara konsisten.
-          </p>
-          <p>
-            Artikel ini memberikan panduan praktis untuk meningkatkan produktivitas di tempat kerja, mulai dari manajemen waktu, strategi kerja yang lebih efektif, hingga menjaga kesehatan mental agar tetap fokus.
-          </p>
-
-          <h3 class="section-title">1. Prioritaskan Tugas dengan Metode Eisenhower Matrix</h3>
-          <p>
-            Menentukan prioritas tugas adalah langkah penting untuk bekerja secara efisien. <strong>Metode Eisenhower Matrix</strong> membantu Anda memisahkan tugas berdasarkan urgensi dan kepentingannya. Matrix ini membagi tugas ke dalam empat kategori:
-          </p>
-          <ul class="styled-list">
-            <li><strong>Penting dan Mendesak:</strong> Tugas yang harus segera diselesaikan.</li>
-            <li><strong>Penting tapi Tidak Mendesak:</strong> Tugas jangka panjang yang bisa direncanakan lebih awal.</li>
-            <li><strong>Tidak Penting tapi Mendesak:</strong> Tugas yang bisa didelegasikan.</li>
-            <li><strong>Tidak Penting dan Tidak Mendesak:</strong> Tugas yang bisa ditunda atau diabaikan.</li>
-          </ul>
-
-          <h3 class="section-title">2. Batasi Gangguan dan Tingkatkan Fokus</h3>
-          <p>
-            Gangguan seperti notifikasi ponsel, email, dan percakapan spontan di kantor bisa sangat mengurangi produktivitas. Untuk meningkatkan fokus, coba lakukan langkah berikut:
-          </p>
-          <ul class="styled-list">
-            <li>Matikan notifikasi ponsel selama bekerja atau gunakan mode "Do Not Disturb".</li>
-            <li>Atur waktu khusus untuk memeriksa email agar tidak mengganggu alur kerja.</li>
-            <li>Gunakan headphone atau tentukan batasan waktu untuk percakapan sosial di tempat kerja.</li>
-          </ul>
-
-          <h3 class="section-title">3. Gunakan Teknik Pomodoro untuk Manajemen Waktu</h3>
-          <p>
-            Teknik <strong>Pomodoro</strong> adalah metode yang membagi waktu kerja menjadi interval 25 menit, diselingi istirahat 5 menit di antara setiap interval. Teknik ini membantu Anda untuk bekerja dengan fokus maksimal dalam waktu singkat dan menjaga energi tetap stabil sepanjang hari.
-          </p>
-
-          <h3 class="section-title">4. Ciptakan Lingkungan Kerja yang Kondusif</h3>
-          <p>
-            Lingkungan kerja yang nyaman dan rapi dapat meningkatkan semangat dan produktivitas. Beberapa cara yang bisa Anda coba untuk menciptakan lingkungan kerja yang kondusif:
-          </p>
-          <ul class="styled-list">
-            <li>Pastikan meja kerja tertata rapi dan bersih dari barang-barang yang tidak perlu.</li>
-            <li>Gunakan pencahayaan yang cukup agar mata tidak cepat lelah.</li>
-            <li>Tambahkan elemen yang membuat Anda nyaman, seperti tanaman hias atau foto keluarga.</li>
-          </ul>
-
-          <h3 class="section-title">5. Manfaatkan Alat Bantu Produktivitas</h3>
-          <p>
-            Teknologi dapat menjadi alat bantu yang efektif untuk meningkatkan produktivitas. Beberapa aplikasi dan alat bantu yang berguna adalah:
-          </p>
-          <ul class="styled-list">
-            <li><strong>Trello atau Asana:</strong> Untuk manajemen proyek dan tugas tim.</li>
-            <li><strong>Google Calendar:</strong> Untuk mengatur jadwal kerja dan rapat secara efisien.</li>
-            <li><strong>Notion atau Evernote:</strong> Untuk mencatat ide dan informasi penting yang bisa diakses kapan saja.</li>
-          </ul>
-
-          <h3 class="section-title">6. Istirahat yang Cukup dan Kelola Stres</h3>
-          <p>
-            Istirahat yang cukup merupakan faktor penting agar tetap produktif. Bekerja tanpa istirahat justru bisa menurunkan efisiensi dan meningkatkan risiko burnout. Tips mengelola stres dan menjaga energi adalah:
-          </p>
-          <ul class="styled-list">
-            <li>Ambil jeda singkat setiap 1-2 jam untuk meregangkan tubuh atau berjalan sejenak.</li>
-            <li>Lakukan teknik pernapasan atau meditasi ringan untuk meredakan ketegangan.</li>
-            <li>Pastikan Anda mendapatkan tidur yang cukup setiap malam agar tubuh dan pikiran siap bekerja esok hari.</li>
-          </ul>
-
-          <div class="conclusion">
-            <p>
-              Meningkatkan produktivitas di tempat kerja membutuhkan perencanaan, disiplin, dan upaya yang konsisten. Dengan menerapkan tips di atas, Anda bisa bekerja lebih efisien, fokus, dan mencapai hasil maksimal dalam pekerjaan.
-            </p>
-          </div>
-        </div>
-      `
+      "content": "<p>Meningkatkan produktivitas di tempat kerja adalah kunci bagi kesuksesan karier. Dengan produktivitas yang baik, Anda bisa menyelesaikan lebih banyak pekerjaan dengan efisiensi tinggi, mendapatkan kepercayaan dari atasan, serta mencapai target pekerjaan secara konsisten. Artikel ini memberikan panduan praktis untuk meningkatkan produktivitas di tempat kerja, mulai dari manajemen waktu, strategi kerja yang lebih efektif, hingga menjaga kesehatan mental agar tetap fokus.</p><h3>1. Prioritaskan Tugas dengan Metode Eisenhower Matrix</h3><p>Menentukan prioritas tugas adalah langkah penting untuk bekerja secara efisien. Metode Eisenhower Matrix membantu Anda memisahkan tugas berdasarkan urgensi dan kepentingannya.</p><h3>2. Batasi Gangguan dan Tingkatkan Fokus</h3><p>Gangguan seperti notifikasi ponsel, email, dan percakapan spontan di kantor bisa sangat mengurangi produktivitas. Untuk meningkatkan fokus, coba lakukan langkah berikut.</p><h3>3. Gunakan Teknik Pomodoro untuk Manajemen Waktu</h3><p>Teknik Pomodoro adalah metode yang membagi waktu kerja menjadi interval 25 menit, diselingi istirahat 5 menit di antara setiap interval.</p><h3>4. Ciptakan Lingkungan Kerja yang Kondusif</h3><p>Lingkungan kerja yang nyaman dan rapi dapat meningkatkan semangat dan produktivitas.</p><h3>5. Manfaatkan Alat Bantu Produktivitas</h3><p>Teknologi dapat menjadi alat bantu yang efektif untuk meningkatkan produktivitas. Beberapa aplikasi dan alat bantu yang berguna adalah Trello, Asana, Google Calendar, Notion, atau Evernote.</p><h3>6. Istirahat yang Cukup dan Kelola Stres</h3><p>Istirahat yang cukup merupakan faktor penting agar tetap produktif. Bekerja tanpa istirahat justru bisa menurunkan efisiensi dan meningkatkan risiko burnout.</p><div class='conclusion'><h4>Kesimpulan:</h4><p>Meningkatkan produktivitas di tempat kerja membutuhkan perencanaan, disiplin, dan upaya yang konsisten. Dengan menerapkan tips di atas, Anda bisa bekerja lebih efisien, fokus, dan mencapai hasil maksimal dalam pekerjaan.</p></div>"
+    },
+    {
+      "title": "Tips Menulis CV yang Menarik untuk Fresh Graduate",
+      "content": "<p>Memasuki dunia kerja sebagai fresh graduate bisa menjadi tantangan tersendiri, terutama dalam menyusun curriculum vitae (CV) yang menarik. CV adalah kesan pertama yang akan dilihat oleh perusahaan, sehingga penting untuk menyajikannya secara profesional dan menarik.</p><h3>1. Gunakan Format yang Sederhana dan Profesional</h3><p>Pilih format CV yang mudah dibaca dan profesional. Gunakan font yang sederhana seperti Arial atau Times New Roman dengan ukuran yang nyaman dibaca.</p><h3>2. Mulailah dengan Informasi Pribadi yang Lengkap</h3><p>Pada bagian atas CV, sertakan nama lengkap, nomor telepon, alamat email, dan tautan ke profil LinkedIn (jika ada).</p><h3>3. Fokus pada Keterampilan dan Pengalaman yang Relevan</h3><p>Walaupun Anda belum memiliki banyak pengalaman kerja, fokuslah pada keterampilan dan pengalaman yang relevan dengan posisi yang Anda lamar.</p><h3>4. Tulis Ringkasan Profil yang Menarik</h3><p>Tambahkan ringkasan profil singkat di bagian atas CV yang menggambarkan diri Anda dalam satu atau dua kalimat.</p><h3>5. Gunakan Bahasa yang Jelas dan Profesional</h3><p>Hindari bahasa yang terlalu kompleks atau terlalu santai. Gunakan bahasa formal dan profesional.</p><h3>6. Sertakan Portofolio atau Contoh Karya (Jika Ada)</h3><p>Jika Anda memiliki karya atau proyek yang relevan dengan pekerjaan yang Anda inginkan, sertakan tautan ke portofolio atau lampirkan contoh karya Anda.</p><h3>7. Batasi Panjang CV Menjadi Satu atau Dua Halaman</h3><p>Usahakan agar CV Anda tidak terlalu panjang. Satu hingga dua halaman adalah panjang ideal untuk seorang fresh graduate.</p><h3>8. Gunakan Kata Kunci yang Sesuai dengan Deskripsi Pekerjaan</h3><p>Pastikan Anda membaca deskripsi pekerjaan dengan cermat dan menyertakan kata kunci yang relevan dalam CV Anda.</p><h3>9. Review dan Edit Sebelum Mengirim</h3><p>Sebelum mengirim CV, luangkan waktu untuk membaca ulang dan melakukan editing.</p><div class='conclusion'><h4>Kesimpulan:</h4><p>Menulis CV yang menarik adalah langkah awal yang penting untuk memulai karir sebagai fresh graduate. Dengan format yang rapi, informasi yang jelas, dan kata kunci yang relevan, Anda dapat meningkatkan peluang untuk mendapatkan pekerjaan yang diimpikan.</p></div>"
     }
   ]
 }
